@@ -1,18 +1,11 @@
 {
   "clientes": [
     {
-      "nombre": "camilo",
+      "nombre": "Juanito",
       "email": "correo@correo.com",
       "telefono": "7711107",
       "empresa": "Biozonos",
       "id": 2
-    },
-    {
-      "nombre": "Cliente3",
-      "email": "Correo@corre.net",
-      "telefono": "32336458",
-      "empresa": "Empresas",
-      "id": 3
     }
   ]
 }
