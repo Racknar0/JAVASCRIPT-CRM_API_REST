@@ -1,4 +1,5 @@
-import {MostrarAlerta} from './funciones.js'
+import {MostrarAlerta} from './funciones.js';
+import {nuevoCliente} from './API.js';
 
 (function () {
         
@@ -26,8 +27,10 @@ import {MostrarAlerta} from './funciones.js'
             MostrarAlerta('Todos los campos son obligatorios'); //Mostrar Mensaje
             return;
         }
-        MostrarAlerta('Validado');
+        nuevoCliente(cliente);
 
+
+        
     }
 
     //!Validar Formulario
