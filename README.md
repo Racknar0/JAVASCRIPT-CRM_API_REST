@@ -1,6 +1,3 @@
-Proyecto creado usando las tecnologías HTML, SCC, JAVASCRIPT poniendo en practica Prototypes de JS
-
-
 <h1 align="center">CRM CRUD REST</h1>
 <h3 align="center">CRUD REST Mediante Json Server🌟.</h3>
 
@@ -21,4 +18,3 @@ Ejecutar live server en la carpeta de descarga
 -  Visualización :-
 JSON SERVER y Ejecutar el localhost
 
-S
