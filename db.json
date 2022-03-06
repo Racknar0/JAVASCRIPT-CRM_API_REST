@@ -6,6 +6,13 @@
       "telefono": "7711107",
       "empresa": "Biozonos",
       "id": 2
+    },
+    {
+      "nombre": "Cliente",
+      "email": "Cliente@cliente.com",
+      "telefono": "3233642951",
+      "empresa": "Github",
+      "id": 3
     }
   ]
 }

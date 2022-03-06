@@ -5,6 +5,8 @@ Proyecto creado usando las tecnologías HTML, SCC, JAVASCRIPT poniendo en practi
 <h3 align="center">CRUD REST Mediante Json Server🌟.</h3>
 
 Para usar la aplicación se deberá instalar json server y apuntar hacia db.json : http://localhost:4000/clientes
+json-server --watch db.json --port 4000
+Ejecutar live server en la carpeta de descarga
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="100"
@@ -19,3 +21,4 @@ Para usar la aplicación se deberá instalar json server y apuntar hacia db.json
 -  Visualización :-
 JSON SERVER y Ejecutar el localhost
 
+S
