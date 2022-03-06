@@ -1,7 +1,7 @@
 Proyecto creado usando las tecnologías HTML, SCC, JAVASCRIPT poniendo en practica Prototypes de JS
 
 
-<h1 align="center">API CRUD REST</h1>
+<h1 align="center">CRM CRUD REST</h1>
 <h3 align="center">CRUD REST Mediante Json Server🌟.</h3>
 
 Para usar la aplicación se deberá instalar json server y apuntar hacia db.json : http://localhost:4000/clientes
@@ -17,6 +17,5 @@ Para usar la aplicación se deberá instalar json server y apuntar hacia db.json
       height="100" /> </a>
 
 -  Visualización :-
-<a href="https://api-buscar-cancion.netlify.app/" target="_blank"
-    rel="noreferrer">https://api-buscar-cancion.netlify.app/</a>
+JSON SERVER y Ejecutar el localhost
 
