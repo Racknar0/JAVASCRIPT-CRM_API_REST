@@ -1,6 +1,6 @@
 const url = 'http://localhost:4000/clientes'
 
-//! Cuando se crea nuevo clientes
+//! Cuando se crea nuevo clientes 
 export const nuevoCliente = async cliente => {
 
     try {
